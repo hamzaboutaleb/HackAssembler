@@ -1,0 +1,16 @@
+export const enum TokenType {
+  AT = "AT",
+  EQUAL = "EQUAL",
+  SEMI_COLON = "SEMI COLON",
+  LEFT_PAREN = "LEFT PARENT",
+  RIGHT_PAREN = "RIGHT PARENT",
+  PLUS = "PLUS",
+  MINUS = "MINUS",
+  AND = "AND",
+  OR = "OR",
+  NOT = "NOT",
+  IDENTIFER = "IDENTIFER",
+  NUMBER = "NUMBER",
+  NEW_LINE = "NEW LINE",
+  EOF = "EOF",
+}
